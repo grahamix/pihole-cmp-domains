@@ -41,6 +41,21 @@ gateway-hetzner.sirdata.io
 gateway-online-preprod.sirdata.io
 gateway-online.sirdata.io
 gateway-preprod.sirdata.io
+
+# not cookies but still
+rtb-eu.linkedin.com
+rtb-us-east.linkedin.com
+rtb-us-east-new.linkedin.com
+rtb-us-ei4.linkedin.com
+rtb-us-ei5.linkedin.com
+rtb-us-ela1.linkedin.com
+rtb-us-ela4.linkedin.com
+rtb-us-lor1.linkedin.com
+rtb-us-ltx1.linkedin.com
+rtb-us-lva1.linkedin.com
+rtb-us-south.linkedin.com
+rtb-us-west.linkedin.com
+rtb-vto.linkedin.com
 gateway.sirdata.io
 helper-preprod.sirdata.io
 helper.sirdata.io
