@@ -315,3 +315,6 @@ www.wix.cookiehub.com
 
 # Fuck the Daily Heil
 cmp.dmgmediaprivacy.co.uk
+
+# Fuck The Times
+launcher.spot.im
