@@ -318,3 +318,11 @@ cmp.dmgmediaprivacy.co.uk
 
 # Fuck The Times
 launcher.spot.im
+cdn.brandmetrics.com
+scripts.webcontentassessor.com
+cdn.permutive.com
+ads.thetimes.com
+consent.thetimes.com
+tags.tiqcdn.com
+api-2-0.spot.im
+publisher-assets.spot.im
