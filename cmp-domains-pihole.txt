@@ -312,6 +312,7 @@ wix.cookiehub.com
 wp.cookiehub.com
 www.support.cookiehub.com
 www.wix.cookiehub.com
+jetpack.wordpress.com
 
 # Fuck the Daily Heil
 cmp.dmgmediaprivacy.co.uk
