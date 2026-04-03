@@ -328,3 +328,6 @@ consent.thetimes.com
 tags.tiqcdn.com
 api-2-0.spot.im
 publisher-assets.spot.im
+
+# fuck DataDog
+browser-intake-datadoghq.com
