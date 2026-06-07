@@ -1,4 +1,5 @@
-# ABConsent / sirdata.com
+# ABConsent / 
+sirdata.com
 cache.consentframework.com
 cname.consentframework.com
 ui.consentframework.com
@@ -331,3 +332,9 @@ publisher-assets.spot.im
 
 # fuck DataDog
 browser-intake-datadoghq.com
+
+proxyjs.brdtnet.com
+proxyjs.luminatinet.com
+proxyjs.bright-sdk.com
+clientsdk.bright-sdk.com
+clientsdk.brdtnet.com
